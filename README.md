@@ -15,6 +15,6 @@ Sources: Yahoo Finance.
 5. VaR backtesting
 
 ## How to Run
-1. Run 01_weekly_prices.ipynb
+1. Run 01_weekly_prices_data.ipynb
 2. Run 02_ARMA-GARCH_PIT.R
 3. Run 03_vine_estimation.R
