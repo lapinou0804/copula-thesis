@@ -6,6 +6,7 @@ This project models dependence among 30 global assets using truncated C-vine and
 ## Data
 Weekly adjusted close prices from March 2008 to December 2025.
 Sources: Yahoo Finance.
+The weekly price matrix used for the thesis is stored in weekly_prices_balanced.csv
 
 ## Methodology
 1. Simple weekly returns
