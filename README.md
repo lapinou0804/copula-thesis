@@ -17,7 +17,7 @@ The weekly price matrix used for the thesis is stored in weekly_prices_balanced.
 
 ## How to Run
 1. Run 01_weekly_prices_data.ipynb
-2. Run 02_thesis code.rmd
+2. Run thesis code.rmd
 
 ## Remarks
 The fitted model of multivariate t copula, truncated R vine and truncated C-vine are stored in the 3 rds files respectively for the purpose of time saving. 
